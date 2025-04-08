@@ -1,0 +1,37 @@
+
+/* Menu Page Specific Styles */
+.menu {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .section-title {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    color: #6d4c41;
+  }
+  
+  .menu-section {
+    margin-bottom: 30px;
+    background-color: #fff3e0;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .menu-section h3 {
+    margin-bottom: 10px;
+    color: #d2691e;
+    font-size: 1.5em;
+  }
+  
+  .menu-section ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .menu-section li {
+    padding: 6px 0;
+    font-size: 1.1em;
+  }
